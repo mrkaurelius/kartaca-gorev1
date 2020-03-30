@@ -1,0 +1,6 @@
+[submodule "go/gobackend"]
+	path = go/gobackend
+	url = https://github.com/mrkaurelius/gobackend
+[submodule "node/vuefrontend"]
+	path = node/vuefrontend
+	url = https://github.com/mrkaurelius/vuefrontend
